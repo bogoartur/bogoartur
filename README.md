@@ -28,7 +28,7 @@ I am a **Software Developer in training** with practical experience in building 
 
 *   🔭 **Currently working on:** LLM integrations and React front-ends.
 *   🎓 **Education:** Bachelor's in **Software Engineering** at UNIVILLE (Graduating Dec/2026).
-*   🤖 **Key Interests:** Automation (OpenCV/Selenium), Chatbot Fine-tuning, and Spring Boot ecosystems.
+*   🤖 **Key Interests:** Automation (OpenCV/Selenium), React development and Spring Boot ecosystems.
 *   💼 **Goal:** Seeking an **Internship** or **Junior** position to apply my skills in development and problem-solving.
 
 ---
